@@ -22,3 +22,12 @@ I searched for tutorials and followed the steps to clone the repository successf
 
 ## Result
 All tools were installed successfully and the repository documents the setup process.
+## Repository Purpose
+This repository documents my process of setting up AI-assisted development tools using Cursor IDE, including the Claude Code and Codex extensions. The goal of this project is to demonstrate the ability to follow technical instructions, troubleshoot issues, and document the setup clearly.
+
+## Skills Demonstrated
+- Installing and configuring development tools
+- Using Cursor IDE with AI extensions
+- Basic Git workflow (clone, commit, push)
+- Creating and managing a public repository on GitHub
+- Documenting technical processes clearly
