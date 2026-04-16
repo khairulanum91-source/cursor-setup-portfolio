@@ -17,8 +17,8 @@ Chris Walker
 Katelyn Bourgoin
 - Platform: LinkedIn
 - Focus: Buyer psychology & messaging
-- Why selected: Combines psychology with marketing to create highly effective content strategies
-- Link: https://www.linkedin.com/in/katelyn-bourgoin/
+- Why selected: Shares highly engaging insights on customer behavior and decision-making in marketing
+- Link: https://www.linkedin.com/in/katebour/
 
 Nick Bennett
 - Platform: LinkedIn
