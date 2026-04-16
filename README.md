@@ -40,3 +40,16 @@ This repository contains research on 10 B2B SaaS growth experts, focusing on:
 - Content distribution
 
 The goal is to extract high-signal insights that can be used to build a practical growth playbook.
+
+Research Methodology
+To ensure high-signal data collection, I followed a structured process:
+
+Expert Curation: Selected 10 practitioners based on their consistent delivery of actionable B2B SaaS growth frameworks, focusing on LinkedIn organic reach and demand generation.
+
+##Data Extraction:
+
+LinkedIn: Manually curated high-performing posts to capture nuance and engagement patterns.
+
+YouTube: Used Supadata API to extract full transcripts from deep-dive sessions (e.g., Chris Walker’s 1-hour interview) to identify long-form strategic insights.
+
+Organization: Categorized all findings into a modular folder structure to serve as a foundation for a future Growth Playbook.
