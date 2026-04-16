@@ -31,3 +31,12 @@ This repository documents my process of setting up AI-assisted development tools
 - Basic Git workflow (clone, commit, push)
 - Creating and managing a public repository on GitHub
 - Documenting technical processes clearly
+
+## Overview
+
+This repository contains research on 10 B2B SaaS growth experts, focusing on:
+- LinkedIn content strategy
+- Demand generation
+- Content distribution
+
+The goal is to extract high-signal insights that can be used to build a practical growth playbook.
