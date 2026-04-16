@@ -1,4 +1,4 @@
- Alex Hormozi
+# Alex Hormozi
 
 ## Post 1
 Link: https://www.linkedin.com/posts/alexhormozi_top-business-books-that-helped-me-make-9-ugcPost-7441414127820021760-uE26
