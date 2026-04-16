@@ -44,11 +44,11 @@ This research focuses on LinkedIn organic content strategy for B2B SaaS. The fol
 
 ---
 
-## Tara Horstmeyer
+## Dickie Bush
 - Platform: LinkedIn
-- Focus: Ghostwriting & tone of voice
-- Why selected: Focuses on writing style and voice, which is critical in LinkedIn content performance
-- Link: https://www.linkedin.com/in/lennyr/
+- Focus: Writing systems & content clarity
+- Why selected: Shares actionable frameworks for writing clear, high-performing content
+- Link: https://www.linkedin.com/in/dickiebush/
 
 ---
 
