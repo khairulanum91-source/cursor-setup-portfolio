@@ -46,7 +46,7 @@ To ensure high-signal data collection, I followed a structured process:
 
 Expert Curation: Selected 10 practitioners based on their consistent delivery of actionable B2B SaaS growth frameworks, focusing on LinkedIn organic reach and demand generation.
 
-##Data Extraction:
+## Data Extraction:
 
 LinkedIn: Manually curated high-performing posts to capture nuance and engagement patterns.
 
