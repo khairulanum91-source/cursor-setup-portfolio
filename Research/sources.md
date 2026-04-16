@@ -59,11 +59,11 @@ This research focuses on LinkedIn organic content strategy for B2B SaaS. The fol
 - Link: https://www.linkedin.com/in/sam-browne/
 ---
 
-## Jonathan Pearson
+## Ross Simmonds
 - Platform: LinkedIn
-- Focus: Content strategy
-- Why selected: Shares insights on structuring and scaling content strategies
-- Link: https://www.linkedin.com/in/jonathanpearsonuk/
+- Focus: Content distribution & B2B growth
+- Why selected: Shares actionable strategies on amplifying content reach and driving engagement in B2B
+- Link: https://www.linkedin.com/in/rosssimmonds/
 
 ---
 
