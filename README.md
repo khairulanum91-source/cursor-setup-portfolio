@@ -1,55 +1,76 @@
-# Cursor Setup Portfolio
+# B2B Growth Playbook Research
+## LinkedIn Content Strategy Analysis from 10 Industry Experts
 
-## Tools Installed
-- Cursor IDE
-- Claude Code Extension
-- Codex Extension
-- Git
+---
 
-## Steps Completed
-1. Installed Cursor IDE
-2. Installed Claude Code extension
-3. Installed Codex extension
-4. Created a public GitHub repository
-5. Cloned the repository into Cursor
-6. Created this README file
+### Project Overview
+This research project analyzes LinkedIn content strategies from 10 leading 
+B2B growth practitioners. The goal is to extract high-signal, actionable 
+insights on demand generation, audience engagement, and content distribution 
+to build a practical B2B Growth Playbook.
 
-## Issues Encountered
-At first I was unfamiliar with cloning a GitHub repository into Cursor.
+### Research Objectives
+- Identify recurring content frameworks used by top B2B growth experts
+- Analyze what types of posts generate the highest engagement
+- Extract actionable strategies applicable to B2B market expansion
 
-## How I Solved It
-I searched for tutorials and followed the steps to clone the repository successfully.
+---
 
-## Result
-All tools were installed successfully and the repository documents the setup process.
-## Repository Purpose
-This repository documents my process of setting up AI-assisted development tools using Cursor IDE, including the Claude Code and Codex extensions. The goal of this project is to demonstrate the ability to follow technical instructions, troubleshoot issues, and document the setup clearly.
+### Experts Analyzed
+| No | Name | Focus Area |
+|----|------|------------|
+| 1 | Alex Hormozi | Business growth & execution mindset |
+| 2 | Chris Walker | Demand generation & dark social |
+| 3 | Dickie Bush | Writing & audience building |
+| 4 | Justin Rowe | LinkedIn paid & organic strategy |
+| 5 | Justin Welsh | Creator economy & solopreneurship |
+| 6 | Katelyn Bourgoin | Buyer psychology & marketing |
+| 7 | Lenny Rachitsky | Product-led growth |
+| 8 | Nick Bennett | B2B influencer & GTM strategy |
+| 9 | Ross Simmonds | Content distribution & SEO |
+| 10 | Sam Browne | Personal branding & LinkedIn growth |
 
-## Skills Demonstrated
-- Installing and configuring development tools
-- Using Cursor IDE with AI extensions
-- Basic Git workflow (clone, commit, push)
-- Creating and managing a public repository on GitHub
-- Documenting technical processes clearly
+---
 
-## Overview
+### Repository Structure
 
-This repository contains research on 10 B2B SaaS growth experts, focusing on:
-- LinkedIn content strategy
-- Demand generation
-- Content distribution
+---
 
-The goal is to extract high-signal insights that can be used to build a practical growth playbook.
+### Research Methodology
+1. **Expert Curation** — Selected 10 practitioners based on consistent 
+   delivery of actionable B2B growth frameworks on LinkedIn
+2. **Post Analysis** — Manually curated 3 high-performing LinkedIn posts 
+   per expert to identify content patterns and messaging strategy
+3. **Transcript Analysis** — Extracted insights from YouTube sessions 
+   using Supadata API to capture long-form strategic frameworks
+4. **Insight Extraction** — Summarized key takeaways per post, focusing 
+   on frameworks applicable to B2B market expansion
 
-Research Methodology
-To ensure high-signal data collection, I followed a structured process:
+---
 
-Expert Curation: Selected 10 practitioners based on their consistent delivery of actionable B2B SaaS growth frameworks, focusing on LinkedIn organic reach and demand generation.
+### Key Themes Identified
+- **Execution over consumption** — Top performers emphasize applying 
+  knowledge rather than accumulating it
+- **Distribution beats creation** — Great content without distribution 
+  strategy fails to generate demand
+- **Buyer psychology** — Understanding how buyers think drives better 
+  messaging and higher conversion
+- **Dark social & community** — Demand is increasingly generated in 
+  private channels, not just public feeds
 
-## Data Extraction:
+---
 
-LinkedIn: Manually curated high-performing posts to capture nuance and engagement patterns.
+### Tools Used
+- Cursor IDE — for documentation and file management
+- Supadata API — for YouTube transcript extraction
+- GitHub — for version control and portfolio documentation
 
-YouTube: Used Supadata API to extract full transcripts from deep-dive sessions (e.g., Chris Walker’s 1-hour interview) to identify long-form strategic insights.
+---
 
-Organization: Categorized all findings into a modular folder structure to serve as a foundation for a future Growth Playbook.
+### About This Project
+This research was conducted as part of personal skill development in 
+B2B Growth Strategy and Market Expansion Analysis.
+
+**Author:** Khairul Anum  
+**Contact:** khairulanum91@gmail.com  
+**LinkedIn:** linkedin.com/in/khairulanum
