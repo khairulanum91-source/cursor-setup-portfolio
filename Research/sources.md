@@ -1,82 +1,28 @@
 # Research Sources
+## B2B Growth Playbook — Expert Selection Criteria
 
-This research focuses on LinkedIn organic content strategy for B2B SaaS. The following experts were selected based on their real-world experience, content quality, and influence in B2B marketing.
-
----
-
-## Justin Welsh
-- Platform: LinkedIn
-- Focus: Personal branding & content systems for B2B SaaS
-- Why selected: Known for building a strong audience through consistent, high-quality LinkedIn content and repeatable systems
-- Link: https://www.linkedin.com/in/justinwelsh/
+All experts were selected based on three criteria: real-world 
+practitioner experience, consistency in delivering actionable 
+B2B growth frameworks, and demonstrated influence on LinkedIn.
 
 ---
 
-## Chris Walker
-- Platform: LinkedIn
-- Focus: Demand generation for B2B SaaS
-- Why selected: Shares deep insights on modern B2B marketing funnels and LinkedIn-driven growth strategies
-- Link: https://www.linkedin.com/in/chriswalker171/
+| Expert | Focus Area | Platform | Profile |
+|--------|-----------|----------|---------|
+| Alex Hormozi | Business growth & execution mindset | LinkedIn | [View Profile](https://www.linkedin.com/in/alexhormozi/) |
+| Chris Walker | Demand generation & dark social | LinkedIn | [View Profile](https://www.linkedin.com/in/chriswalker171/) |
+| Dickie Bush | Writing & audience building | LinkedIn | [View Profile](https://www.linkedin.com/in/dickiebush/) |
+| Justin Rowe | LinkedIn paid & organic strategy | LinkedIn | [View Profile](https://www.linkedin.com/in/justin-rowe-4043339b/) |
+| Justin Welsh | Creator economy & solopreneurship | LinkedIn | [View Profile](https://www.linkedin.com/in/justinwelsh/) |
+| Katelyn Bourgoin | Buyer psychology & marketing | LinkedIn | [View Profile](https://www.linkedin.com/in/katebour/) |
+| Lenny Rachitsky | Product-led growth | LinkedIn / Newsletter | [View Profile](https://www.linkedin.com/in/lennyrachitsky/) |
+| Nick Bennett | B2B influencer & GTM strategy | LinkedIn | [View Profile](https://www.linkedin.com/in/nickbennett908/) |
+| Ross Simmonds | Content distribution & SEO | LinkedIn | [View Profile](https://www.linkedin.com/in/rosssimmonds/) |
+| Sam Browne | Personal branding & LinkedIn growth | LinkedIn | [View Profile](https://www.linkedin.com/in/sam-browne/) |
 
 ---
 
-## Katelyn Bourgoin
-- Platform: LinkedIn
-- Focus: Buyer psychology
-- Why selected: Combines behavioral psychology with marketing strategy to improve messaging effectiveness
-- Link: https://www.linkedin.com/in/katebour/
-
----
-
-## Nick Bennett
-- Platform: LinkedIn
-- Focus: Creator-led growth
-- Why selected: Focuses on using personal branding to drive B2B pipeline and growth
-- Link: https://www.linkedin.com/in/nickbennett908/
-
----
-
-## Lenny Rachitsky
-- Platform: LinkedIn / Newsletter
-- Focus: Product-led growth & SaaS strategy
-- Why selected: Shares deep, research-based insights on growth, product, and scaling strategies used in SaaS
-- Link: https://www.linkedin.com/in/lennyrachitsky/
-
----
-
-## Dickie Bush
-- Platform: LinkedIn
-- Focus: Writing systems & content clarity
-- Why selected: Shares actionable frameworks for writing clear, high-performing content
-- Link: https://www.linkedin.com/in/dickiebush/
-
----
-
-## Sam Browne
-- Platform: LinkedIn
-- Focus: LinkedIn carousel & visual content strategy
-- Why selected: Known for high-performing visual content formats on LinkedIn
-- Link: https://www.linkedin.com/in/sam-browne/
----
-
-## Ross Simmonds
-- Platform: LinkedIn
-- Focus: Content distribution & B2B growth
-- Why selected: Shares actionable strategies on amplifying content reach and driving engagement in B2B
-- Link: https://www.linkedin.com/in/rosssimmonds/
-
----
-
-## Alex Hormozi
-- Platform: LinkedIn
-- Focus: Business growth, customer acquisition, and monetization strategy
-- Why selected: Founder of Acquisition.com with proven experience scaling multiple businesses and sharing high-impact, practical insights on growth and marketing
-- Link: https://www.linkedin.com/in/alexhormozi/
-
----
-
-## Justin Rowe
-- Platform: LinkedIn
-- Focus: B2B SaaS LinkedIn strategy
-- Why selected: Specializes in LinkedIn-based growth for SaaS companies
-- Link: https://www.linkedin.com/in/justin-rowe-4043339b/
+## Additional Research
+| Format | Subject | Source |
+|--------|---------|--------|
+| YouTube Transcript (~1 hour) | Career Evolution & B2B Strategy Shift | [Chris Walker](https://www.youtube.com/watch?v=YdEpv0ZAP10) |
